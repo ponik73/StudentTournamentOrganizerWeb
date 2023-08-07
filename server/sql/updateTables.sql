@@ -1,0 +1,1 @@
+ALTER TABLE TeamPlayers ADD UNIQUE unq_team_player(teamID, userID);
